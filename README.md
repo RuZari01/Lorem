@@ -2,6 +2,6 @@
 
 Адаптивный веб-сайт, выполненный на HTML и CSS.
 
-##DEMO
+## DEMO
 
 https://ruzari01.github.io/Lorem/
